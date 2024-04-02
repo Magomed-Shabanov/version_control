@@ -40,3 +40,6 @@ git config core.sshCommand "ssh -i ~/.ssh/user-private-key -o IdentitiesOnly=yes
 
 
 Исправьте ссылку на Ютуб она не работает.
+
+
+Надеюсь так пойдет!
